@@ -1,0 +1,11 @@
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+cliente.url=
+servico.url=
+server.port=
+
+spring.jpa.hibernate.ddl-auto=
+spring.jpa.show-sql=
+spring.jpa.database-platform=
